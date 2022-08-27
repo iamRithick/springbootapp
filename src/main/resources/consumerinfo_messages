@@ -1,0 +1,2 @@
+DepartmentServiceConsumer.serviceURL = http://localhost:8081/departmentService/
+DepartmentServiceConsumer.apiURLForByName = getDeptById/
